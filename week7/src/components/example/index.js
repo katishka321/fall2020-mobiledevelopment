@@ -1,6 +1,6 @@
 import React from 'react';
 
-const name = "Katishka";
+const name = "Katishka Walton";
 const age = 22;
 
 const Example = () => {
